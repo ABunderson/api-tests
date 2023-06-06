@@ -1,0 +1,23 @@
+{
+  "name": "api-tests",
+  "version": "1.0.0",
+  "description": "API test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABunderson/api-tests.git"
+  },
+  "author": "Adrienne Bunderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABunderson/api-tests/issues"
+  },
+  "homepage": "https://github.com/ABunderson/api-tests#readme",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "node-fetch2": "^1.6.3"
+  }
+}
